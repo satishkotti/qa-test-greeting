@@ -10,6 +10,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class FindGreetingText {
+    // BELOW METHOd finds elemnts with with h1 tags
 
     @Test
     public void testGreetingMessage() {
